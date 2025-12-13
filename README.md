@@ -91,16 +91,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpawar01&layout=compact&theme=tokyonight" height="150" />
 </p>
 
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/Harshpawar01/Harshpawar01/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="left">
