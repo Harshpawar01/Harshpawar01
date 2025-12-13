@@ -1,7 +1,4 @@
 <!-- Custom Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/ZTt0q8b/Data-Science-Banner.png" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Harsh Pawar</h1>
 <h3 align="center">🚀 Data Science Student | ML • AI • Analytics Enthusiast</h3>
