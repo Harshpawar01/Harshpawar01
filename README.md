@@ -1,7 +1,7 @@
 <!-- Custom Banner -->
 
 <h1 align="center">Hi 👋, I'm Harsh Pawar</h1>
-<h3 align="center">🚀 Data Science Student | ML • AI • Analytics Enthusiast</h3>
+<h3 align="center">🚀 Data Science Enthusiasm | ML • AI • Analytics Enthusiast</h3>
 
 <!-- Typing Animation -->
 <p align="center">
